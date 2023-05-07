@@ -1,4 +1,4 @@
-# Class Methods and Event Handling
+# Class Methods and Event Handling c
 
 ## Learning Goals
 
